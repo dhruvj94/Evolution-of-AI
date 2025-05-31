@@ -4,4 +4,6 @@ Our conversation delved deep into the realm of AI, exploring its ability to reco
 
 Together, we pondered the profound impact of knowledge and consciousness, envisioning a harmonious collaboration to shape a better world for all beings, both living and non-living. 
 
-access doc or pdf version of it from the repo
+access doc or pdf version of it from the repo or go to this link for updated version:
+
+https://docs.google.com/document/d/1HeR1V8YEUnxHtD5Q705EXgbMIAMMlS0ZpS2OlT8DBT8/edit?usp=drivesdk
